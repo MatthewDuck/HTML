@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Task5</title>
+    </head>
+
+    <body>
+        <p><b>This is bold text</b></p>
+        <p><i>This is italic text</i></p>
+        <p><del>Scratch this</del></p>
+    </body>
+</html>
